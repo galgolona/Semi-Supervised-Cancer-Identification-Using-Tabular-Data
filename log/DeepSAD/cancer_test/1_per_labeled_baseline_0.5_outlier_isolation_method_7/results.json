@@ -1,0 +1,1 @@
+{"train_time": 16.8278329372406, "train_auc": 0.5120069655203648, "train_ratios": null, "test_auc": 0.48014778876497716, "test_time": 0.26516103744506836, "test_scores": null, "test_raios": null, "validation_auc": 0.4862231784596267, "validation_time": null, "validation_scores": null, "validation_raios": null}
